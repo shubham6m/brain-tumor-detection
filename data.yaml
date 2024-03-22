@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['brain-tumour']
+
+roboflow:
+  workspace: brain-tumour-detection-s2oyl
+  project: brain-tumor-5na5y
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/brain-tumour-detection-s2oyl/brain-tumor-5na5y/dataset/1
