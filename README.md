@@ -21,7 +21,9 @@ The following pre-processing was applied to each image:
 * Resize to 640x640 (Stretch)
 
 No image augmentation techniques were applied.
-
+I'm happy to share my recent deep learning project Brain tumor detection in python, the dataset was exported via Roboflow website. 
+Literally I learned a lot from there like how to do testing in ML, even I have some idea about the process in theory subject but not practically, truly I had not a plan to dive into ML or Deep learning projects.😂 I thought it might be more interesting than local programming language because I personally thinks that in ML & DL there we get result & on hand project which sometime not might take much, if I said truly I just do testing for 118 images only.
+May be I'm not perfect on this project but soon I'll do more on ML & do my best at all. 
 
 
 
